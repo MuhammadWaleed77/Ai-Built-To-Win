@@ -37,7 +37,9 @@ In short: **I turn AI into reliable results your business can depend on.**
 Each case study shows how I tackle real problems, design AI to solve them, and deliver measurable outcomes.  
 
 - [AI Meal & Calorie Analyzer](case-studies/ai-calorie-analyzer.md) — turn food images into actionable nutrition insights.  
-- [AI UGC Prompt Engine](case-studies/ugc-prompt-engine.md) — generate structured, conversion-driven content automatically.  
+- [AI UGC Prompt Engine](case-studies/ugc-prompt-engine.md) — generate structured, conversion-driven content automatically.
+- [AI Lead Qualification & Auto-Scheduling Agent](case-studies/Lead-Qualification-&-Auto-Scheduling-Agent.md) — capture, score, and automatically schedule high-value leads while low-intent leads are nurtured effortlessly.
+
 - [Social Media AI Automation Agent]() — manage posting, engagement, and analytics without human effort.  
 
 > Every system is built to **create results, not just look fancy**.
