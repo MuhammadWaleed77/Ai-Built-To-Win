@@ -1,11 +1,11 @@
 # I Build AI Systems That Actually Work in the Real World
 
-Most AI demos look impressive — until they fail under real usage.
+Most AI demos look impressive  until they fail under real usage.
 
 I design and test AI-powered systems that businesses can rely on:
 clear logic, known failure modes, and outputs that don’t fall apart outside a demo.
 
-This portfolio shows exactly how I approach AI — from problem framing to testing and delivery.
+This portfolio shows exactly how I approach AI  from problem framing to testing and delivery.
 
 ---
 
@@ -37,8 +37,8 @@ Each case study below breaks down:
 - What worked and what didn’t
 
 - [AI Meal & Calorie Analyzer](case-studies/ai-calorie-analyzer.md)  
-- [AI UGC Prompt Engine](case-studies/ugc-prompt-engine.md)  
-- [Social Media AI Automation Agent](case-studies/social-media-ai-agent.md)  
+- [AI UGC Prompt Engine]()  
+- [Social Media AI Automation Agent]()  
 
 ---
 
