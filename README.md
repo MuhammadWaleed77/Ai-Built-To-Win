@@ -38,7 +38,7 @@ Each case study shows how I tackle real problems, design AI to solve them, and d
 
 - [AI Meal & Calorie Analyzer](case-studies/ai-calorie-analyzer.md) — turn food images into actionable nutrition insights.  
 - [AI UGC Prompt Engine](case-studies/ugc-prompt-engine.md) — generate structured, conversion-driven content automatically.  
-- [Social Media AI Automation Agent](case-studies/social-media-ai-agent.md) — manage posting, engagement, and analytics without human effort.  
+- [Social Media AI Automation Agent]() — manage posting, engagement, and analytics without human effort.  
 
 > Every system is built to **create results, not just look fancy**.
 
