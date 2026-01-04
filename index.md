@@ -62,6 +62,6 @@ That’s how AI becomes useful instead of risky.
 If you want AI that works outside a demo environment:
 
 - Email: waleed9809@gmail.com  
-- LinkedIn: [https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/muhammadwaleedsqa/) 
+- LinkedIn: 
 - GitHub: 
 
