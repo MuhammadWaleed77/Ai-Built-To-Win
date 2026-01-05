@@ -59,3 +59,10 @@ Watch the AI Meal Analyzer in action — real-time calorie analysis for multiple
 
 [▶️ Watch Demo Video](https://drive.google.com/file/d/1vXNn0eP7DPJYBBW_EGSlErbAY8tXKxsM/view?usp=sharing)
 
+## Behind the Scenes — AI Automation Engine 
+
+Once the outcome is proven, here’s what powers it.
+
+<img width="924" height="362" alt="Screenshot 2026-01-05 at 9 04 07 AM" src="https://github.com/user-attachments/assets/2dacf4de-a098-49ab-b554-8abeccb37fed" />
+
+
