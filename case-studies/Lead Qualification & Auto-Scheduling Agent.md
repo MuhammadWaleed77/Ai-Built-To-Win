@@ -130,6 +130,20 @@ See the full system in action — from **form submission → AI scoring → cale
 
 [▶️ Watch Full Demo Video](https://drive.google.com/file/d/1K-M9ox7xkdwmMG6Wk-4Kw-zQqWfYjFmD/view?usp=sharing)
 
+## Behind the Scenes — AI Automation Engine 
+
+Once the outcome is proven, here’s what powers it.
+
+This entire system runs on a **custom  AI agent workflow** that handles:
+- Lead qualification logic
+- AI scoring & decision-making
+- Calendar scheduling
+- Email automation
+- Data storage
+
+No manual steps. No Zapier chains that break.
+<img width="1257" height="279" alt="Screenshot 2026-01-05 at 8 58 57 AM" src="https://github.com/user-attachments/assets/9ed6d057-ba70-4385-8fdf-8e0950420319" />
+
 
 
 
