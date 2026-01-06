@@ -39,6 +39,7 @@ Each case study shows how I tackle real problems, design AI to solve them, and d
 - [AI Meal & Calorie Analyzer](case-studies/ai-calorie-analyzer.md) — turn food images into actionable nutrition insights.  
 - [AI UGC Prompt Engine](case-studies/ugc-prompt-engine.md) — generate structured, conversion-driven content automatically.
 - [AI Lead Qualification & Auto-Scheduling Agent](https://github.com/MuhammadWaleed77/Ai-Built-To-Win/blob/main/case-studies/Lead%20Qualification%20%26%20Auto-Scheduling%20Agent.md) — capture, score, and automatically schedule high-value leads while low-intent leads are nurtured effortlessly.
+- [RealtorBot — AI Real Estate Assistant: Turning Leads into Property Deals](https://github.com/MuhammadWaleed77/Ai-Built-To-Win/blob/main/case-studies/RealtorBot&Auto-Booking%20System.md)) - RealtorBot is an AI-powered real estate assistant that instantly qualifies leads, matches them to relevant properties, and delivers ready-to-close prospects to agents in real time.
 
 - [Social Media AI Automation Agent]() — manage posting, engagement, and analytics without human effort.  
 
