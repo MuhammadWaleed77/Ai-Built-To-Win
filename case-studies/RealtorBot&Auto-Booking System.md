@@ -97,7 +97,8 @@ RealtorBot **automates lead qualification** in a way that **increases real estat
 
 Watch RealtorBot in action — from **user queries** to **AI-powered property suggestions** and **automated lead qualification**:
 
-[▶️ Watch Full Demo Video](link_here)
+[▶️ Watch  Demo Video 1](https://drive.google.com/file/d/1LbCaMV5AckncbAH6x2nRUjaJXh43YStw/view?usp=sharing)
+[▶️ Watch  Demo Video 2](https://drive.google.com/file/d/1fU3-c6ckW2M4PVJ45BgIAkI3X4S-_RRX/view?usp=sharing)
 
 ---
 
